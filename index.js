@@ -127,4 +127,4 @@ client.on('interactionCreate', async (interaction) => {
 });
 
 // BOT TOKEN
-client.login('MTU2NTM1OTA1NzIzNjM5ODIwMg.G8THq-.0qOdQiUvKI9aY8hlaMIT6XvA9LvQgYkd94uGCU');
+client.login('MTU2NTM1OTA1NzIzNjM5ODIwMg.GvyWM2.ksT9U-EOTN7Znmh88Q5s4SSK0TKilR9ZS7ttXs');
